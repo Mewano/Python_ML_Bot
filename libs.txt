@@ -1,0 +1,5 @@
+Библиотеки необходимые для работы бота:
+1. nltk
+2. random
+3. json
+4. python-telegram-bot --upgrade
